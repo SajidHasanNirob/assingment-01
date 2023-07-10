@@ -1,0 +1,61 @@
+/* Shared with Google */
+body {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
+/* header section style */
+
+.header {
+    background-color: #E554731A;
+    margin: auto;
+
+}
+
+.title {
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+    display: flex;
+    margin-top: auto;
+    padding: auto;
+}
+
+.banner-description {
+    color: #27272799;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    display: flex;
+}
+
+.btn {
+    border-color: #FFF;
+    border-radius: 8px;
+    background: #E55473;
+    display: flex;
+    padding: 10px 20px;
+    align-items: flex-start;
+    gap: 10px;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.pic-png{
+    width: 400px;
+height: 500px;
+margin-left: 100px;
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
