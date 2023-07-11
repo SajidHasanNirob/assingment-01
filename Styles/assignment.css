@@ -47,9 +47,7 @@ body {
     color: #FFF;
     font-family: Lato;
     font-size: 20px;
-    font-style: normal;
     font-weight: 700;
-    line-height: normal;
 }
 
 .pic-png {
@@ -132,5 +130,117 @@ body {
     justify-content: space-around;
     border-radius: 8px;
     background: #2727270d;
-    margin: 200px 240px;
+    margin: 120px;
+    padding: 5%;
+}
+
+.hot-deals {
+    border-radius: 8px;
+    background: #e554730d;
+    display: flex;
+    justify-content: space-around;
+}
+
+.hot-title {
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.hot-description {
+    color: #27272799;
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.btn-02 {
+    align-content: center;
+    border-color: #FFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 20px;
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.insta-header {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.insta-description {
+    color: #27272799;
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+
+}
+
+.img {
+    width: 342px;
+    height: 396px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 30px;
+
+}
+
+.get-title {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.get-description {
+    color: #27272799;
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+/* .last-sec{ */
+/* background-image: url(''); */
+/* } */
+.last-sec{
+    justify-content: center;
+}
+.input {
+    border-radius: 8px;
+    background: #FFF;
+}
+
+.button {
+    border-color: #FFF;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 20px;
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 700;
 }
