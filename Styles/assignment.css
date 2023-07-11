@@ -210,6 +210,7 @@ body {
     font-style: normal;
     font-weight: 800;
     line-height: normal;
+    padding-top: 60px;
 }
 
 .get-description {
@@ -220,16 +221,21 @@ body {
     font-style: normal;
     font-weight: 400;
     line-height: 30px;
+    padding-bottom: 40px;
 }
 
 /* .last-sec{ */
 /* background-image: url(''); */
 /* } */
-.last-sec{
+.last-sec {
     justify-content: center;
+    background-image: url("../Flower Asset/Rectangle 9.png");
+    margin: auto;
+
 }
+
 .input {
-   
+
     border-radius: 8px;
     background: #FFF;
     display: flex;
@@ -239,7 +245,7 @@ body {
 .button {
     margin: auto;
     border-color: #FFF;
-display: flex;
+    display: flex;
     justify-content: center;
     align-items: center;
     padding: 10px 20px;
@@ -249,4 +255,48 @@ display: flex;
     font-family: Lato;
     font-size: 20px;
     font-weight: 700;
+}
+
+#heading {
+    color: #E55473;
+}
+
+#shop {
+    color: #FFF;
+}
+
+.container {
+    background-color: black;
+    height: 449px;
+    
+}
+
+.heading-title {
+    padding-top: 10%;
+    font-family: Lato;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    text-align: center;
+}
+
+.footer-p {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.last-line {
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
 }
