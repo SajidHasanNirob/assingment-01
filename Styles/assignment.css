@@ -252,7 +252,7 @@ body {
 /* } */
 
 .last-sec {
-    background-image: url("../flower-asset/rectangle9.png");
+    background-image: url('../flower-asset/rectangle9.png');
     background-repeat: no-repeat;
     width: 1440px;
     height: 449px;
